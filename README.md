@@ -1,6 +1,6 @@
 # Dots
 
-A simple graphic application allows you to place and drag-and-drop them to draw curve.
+A simple graphic application allows you to place shapes and drag-and-drop them to draw curve.
 
 Writen using WinAPI and Gdiplus.
 
